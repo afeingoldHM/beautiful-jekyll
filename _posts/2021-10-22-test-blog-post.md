@@ -14,7 +14,7 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 ## Here is a secondary heading
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![I am tipe](https://media.giphy.com/media/ZPwkT27euI7bivh4y3/giphy.gif)
 
 Here's a useless table:
 
