@@ -16,6 +16,8 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 ![I am tipe](https://media.giphy.com/media/ZPwkT27euI7bivh4y3/giphy.gif)
 
+![Test Image](/assets/img/path.jpg)
+
 Here's a useless table:
 
 | Number | Next number | Previous number |
