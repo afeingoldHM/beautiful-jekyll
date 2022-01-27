@@ -5,6 +5,9 @@
 
 # --- Required options --- #
 
+url: https://afeingoldhm.github.io
+baseurl: /art-of-data
+
 # Name of website
 title: Test Website for Jekyll Forks
 
