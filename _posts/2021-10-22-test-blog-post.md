@@ -14,7 +14,7 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 ## Here is a secondary heading
 
-![I am tipe](https://media.giphy.com/media/ZPwkT27euI7bivh4y3/giphy.gif)
+![I am tipe](https://github.com/afeingoldHM/art-of-data/blob/master/assets/img/path.jpg?raw=true)
 
 ![[Test Image]]({{site.baseurl}}/assets/img/path.jpg)
 
